@@ -1,0 +1,6 @@
+{
+  "name": "🤔🎭🎶 Mood Music",
+  "description": "A game where the user guesses the mood of AI-generated music. Listen to a sound clip, select the mood you think it represents, and see if you can guess all of them correctly.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
